@@ -1,0 +1,34 @@
+
+govardhan has 100000
+vishista has zero
+govardhan gave 500 to vishista
+nani has 3000
+vishista gave 10 to nani
+vishnu has 93839 
+vishnu gave 200 to vishista
+vishnu gave 100 to govardhan
+how much vihista has now
+
+print("                            money")
+print("")
+govardhan = 100000
+vishista = 0
+vishnu = 93839
+nani = 3000
+govardhan=govardhan-500
+vishista=vishista+500
+vishista=vishista-10
+nani=nani+10
+vishnu=vishnu-200
+vishista=vishista+200
+vishnu=vishnu-100
+govardhan=govardhan+100
+
+print(vishista)
+print("vishista")
+print(nani)
+print("nani")
+print(govardhan) 
+print("govardhan")
+print(vishnu) 
+print("vishnu")

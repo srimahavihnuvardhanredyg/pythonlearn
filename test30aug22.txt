@@ -1,0 +1,71 @@
+one day mr:x opened bank account with 5000sek
+aand his father sent money from india around 370383738 Rs to him on 20th Aug
+bank needs to convert to sek to add to his account with a rate of 1sek to 7.6rs
+but still bank will charge 35 sek
+mr.xfather bank(indianbank) charged him 2000Rs fr international charges
+but mr.xs father account has 3465RS in account.
+whats the money in mr.x father  account  on 19th Aug
+
+
+
+
+
+
+print("swedenbank")
+mrxsek = 5000
+conversionrate=7
+giverinrs=70000
+fathermoneyaftersekconversionsek=giverinrs/conversionrate
+
+mrxsek=mrxsek +fathermoneyaftersekconversionsek
+print(mrxsek)
+print("indianbank")
+fathersendRS = 70000
+bankchargedRS=2000
+FathernowholdingRS=346665
+FathernowholdingRS=fathersendRS+bankchargedRS+FathernowholdingRS
+print(FathernowholdingRS)
+
+
+vishnu=200
+govardhan=2000
+
+one day seetha borrowed 50n ntfrom vishnu
+vishnu borrowed 789 from govardhan
+govardhan also gave 560 to srujana
+srujana gave half money to umareddy
+how much umareddy has?
+
+
+print("give")
+govardhan=2000
+vishnu=200
+seetha=0
+srujana=0
+nani=0
+give1=50
+give2=789
+give3=560
+
+vishnu=vishnu -give1
+seetha=seetha +give1
+govardhan=govardhan-give2
+vishnu=vishnu +give2
+govardhan=govardhan-give3
+srujana=srujana+give3
+div= srujana/2
+srujana=srujana -div
+nani=nani +div
+print("govardhan")
+print(govardhan)
+print("vishnu")
+print(vishnu)
+print("srujana")
+print(srujana)
+print("nani")
+print(nani)
+print("seetha")
+print(seetha)
+
+
+

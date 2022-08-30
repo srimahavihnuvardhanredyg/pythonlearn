@@ -1,0 +1,51 @@
+we went exihibion
+vishnu won toy which cost 600 sek
+he divided money equally took 3 of family memebrs same
+then govardhan gave 50 to vishnu from that money
+srujana gave 200 to vishnu
+vishnu happy and retuned 38 to srujana
+srujana happy and gave 29 to govardhan
+govardhan happy gave 89 to srujana
+how much srujana has?
+
+
+
+
+
+we went to exhibition
+8students are there,ticket cost 50, everyone took 2 rides
+kranthi paid 400 for 8 people
+rambabu paid 400 for 8 people
+how much govardhan pay for 2 trips?
+how much rambabu getback?
+
+vishnu = 0
+govardhan = 0
+srujana = 0
+toy= 600
+vishnu=vishnu +toy
+share=vishnu/3
+vishnu=share
+govardhan=share
+srujana=share
+g1=50
+g2=200
+g3=38
+g4=29
+g5=89
+govardhan=govardhan -g1
+vishnu=vishnu +g1
+srujana=srujana -g2
+vishnu=vishnu +g2
+vishnu=vishnu -g3
+srujana=srujana +g3
+srujana=srujana -g4
+govardhan=govardhan +g4
+govardhan=govardhan -g5
+srujana=srujana +g5
+print(govardhan)
+print("G")
+print(srujana)
+print("S")
+print(vishnu)
+print("V")

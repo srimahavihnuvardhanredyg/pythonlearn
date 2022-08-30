@@ -1,0 +1,47 @@
+Govardhan has given 400 to vishnu
+vishnu given 109 to srujana
+srujana given 890 to govardhan
+govardhan has given 3837 to vishnu
+vishnu gave 3737 to nani
+nani gave 7334 to srujana
+srujana gave 9803 to vishita
+who has more money now?
+
+
+print("                money")
+govardhan = 100000
+
+vishnu = 100000
+
+srujana = 100000
+
+nani = 100000
+
+vishishta = 100000
+
+give1=400
+give2=109
+give3=890
+give4=3837
+give5=3737
+give6=7334
+givemax=9803
+govardhan=govardhan -give1
+vishnu=vishnu +give1
+vishnu=vishnu -give2
+srujana=srujana +give2
+srujana=srujana -give3
+govardhan=govardhan +give3
+govardhan=govardhan -give4
+vishnu=vishnu +give4
+vishnu=vishnu -give5
+nani=nani +give5
+nani=nani -give6
+srujana=srujana +give6
+srujana=srujana -givemax
+vishishta=vishishta +givemax
+print("vishnu "+str(vishnu))
+print ("govardhan "+str(govardhan))
+print ("srujana "+str(srujana))
+print ("nani "+str(nani))
+print ("vishishta "+str(vishishta))
